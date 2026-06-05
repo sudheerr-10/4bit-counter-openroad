@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a complete RTL-to-Post_silicon implementation of a 4-bit synchronous counter using the OpenROAD physical design toolchain and Nangate45 technology library.
+This project demonstrates a complete RTL-to-PostSTA implementation of a 4-bit synchronous counter using the OpenROAD physical design toolchain and Nangate45 technology library.
 
 The objective of this project is to perform the complete ASIC physical design flow starting from RTL design and ending with post-route timing verification.
 
